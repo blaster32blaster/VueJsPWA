@@ -2,11 +2,13 @@
 
    <div>
        <div class="jumbotron">
-       <h1>Welcome to Vue.js Bootstrap </h1>
-       <p>Infs 736</p>
-       <p>
-           <router-link class="mdl-navigation__link" to="/site" > <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></router-link>
-       </p>
+
+               <h1>Welcome to Vue.js Bootstrap </h1>
+               <p>Infs 736</p>
+               <p>
+                   <router-link class="mdl-navigation__link" to="/site" > <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></router-link>
+               </p>
+
        </div>
 
            <div class="container">

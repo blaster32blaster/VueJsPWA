@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bfbcfa3f-a1c6-49e8-b058-7a63416c1e74" name="Bluehost" url="http://ftp.webnician.net">
+        <fileTransfer host="ftp.webnician.net" port="21" rootFolder="/public_html/infs736">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
